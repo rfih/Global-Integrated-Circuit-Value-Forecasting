@@ -58,6 +58,6 @@ Filters: exports only; drop aggregates (“World”), positive values; prefer `p
 
 * Data: **UN Comtrade**
 * Author: **Rizky Febri Ibra Habibie**
-* Contact: [rizkyfebriibrahabibie@gmail.com](mailto:rizkyfebriibrahabibie@gmail.com) · LinkedIn: /in/rizkyfebriibrahabibie/
+* Contact: [rizkyfebriibrahabibie@gmail.com](mailto:rizkyfebriibrahabibie@gmail.com) · LinkedIn: [/in/rizkyfebriibrahabibie/](https://www.linkedin.com/in/rizkyfebriibrahabibie/)
 
 ---
